@@ -18,7 +18,8 @@ A minimalistic breakout-style arcade game built on the ATtiny85 microcontroller 
 
 ## 📷 Demo
 ![Game Running](images/demo.jpg)
-![Wiring Diagram](wiring_diagram.png)
+![Wiring Diagram](images/wiring_diagram.png)
+
 
 ## 🔌 Wiring
 | ATtiny85 Pin | Connected To    |
@@ -38,4 +39,4 @@ A minimalistic breakout-style arcade game built on the ATtiny85 microcontroller 
 MIT License — see LICENSE file.
 
 ## 🙋‍♂️ Author
-Ronit — [LinkedIn](https://www.linkedin.com/in/ronit-rajendra-patil/) | [GitHub](https://github.com/R-onit/BRICKZZZ/tree/main)
+Ronit — [LinkedIn](https://www.linkedin.com/in/ronit-rajendra-patil/) | [GitHub](https://github.com/R-onit/BRICKZZZ/tree/main) |[Youtube](https://youtu.be/keeT_vdv5o0)
