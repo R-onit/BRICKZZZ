@@ -20,6 +20,10 @@ A minimalistic breakout-style arcade game built on the ATtiny85 microcontroller 
 ![Game Running](images/demo.jpg)
 ![Wiring Diagram](images/wiring_diagram.png)
 
+## Hardware Preview
+
+![PCB Render](./docs/3D_View.png)
+
 
 ## 🔌 Wiring
 | ATtiny85 Pin | Connected To    |
@@ -30,11 +34,14 @@ A minimalistic breakout-style arcade game built on the ATtiny85 microcontroller 
 | PB4 (pin 3)  | OLED SCL        |
 | PB3 (pin 2)  | Buzzer (via 100Ω)|
 
+## Hardware Design
+The project now includes a custom-designed PCB made using KiCad. The board integrates the ATtiny85, buzzer, tactile switches, and headers for OLED connection. Schematic, layout, and production-ready files are included in the [`hardware/`](hardware/) folder.
+
 ## 📂 Folder Structure
 - `attiny_breakout_game.ino` – Main source code
 - `font6x8.h` – Font data used for display
 - `images/` – Screenshots and wiring diagram
-
+- `hardware/` - Hardware files related to PCB
 ## 📝 License
 MIT License — see LICENSE file.
 
